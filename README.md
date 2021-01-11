@@ -110,22 +110,22 @@ Output:
 
 Tambah data
 ![Tambah data](images/tambah-data.PNG) <br>
-
+<br>
 Ubah data
 ![ubah data](images/ubah-data.PNG)<br>
-
+<br>
 Lihat data
 ![lihat data](images/lihat-data.PNG)<br>
-
+<br>
 Cari data
 ![cari data](images/cari-data.PNG)<br>
-
+<br>
 Hapus data
 ![hapus data](images/hapus-data.PNG)<br>
-
+<br>
 Flowchart:
 ![flowchart](images/flowchart.png)<br><br>
-
+<br>
 
 Deploy
 >Git pull
