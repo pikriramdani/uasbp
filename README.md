@@ -3,7 +3,7 @@
 
 **Struktur Package & Module**
 
-![package](assets/img/1.png)  <<<<<
+![package](images/folder.png)  <<<<<
 
 **Penjelasan:**
 
