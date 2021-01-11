@@ -1,5 +1,5 @@
 #uaspb
-Tugas UAS Bahasa Pemrograman Semester 1
+Tugas UAS Bahasa Pemrograman
 Struktur Package & Module
 
 
