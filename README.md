@@ -2,12 +2,11 @@
 
 Tugas UAS Bahasa Pemrograman
 Struktur Package & Module
+![package](images/package.PNG) <br><br>
 
+**Penjelasan:**
 
-
-Penjelasan:
-
-Model
+**Model**
 
 Daftar_nilai
 
@@ -110,25 +109,29 @@ while True:
 Output:
 
 Tambah data
-
-output-praktikum-5 <<<<<
+![Tambah data](images/tambah-data.PNG) <br>
 
 Ubah data
-
-output-praktikum-5 <<<<<
+![ubah data](images/ubah-data.PNG)<br>
 
 Lihat data
-
-output-praktikum-5 <<<<<
+![lihat data](images/lihat-data.PNG)<br>
 
 Cari data
-
-output-praktikum-5 <<<<<
+![cari data](images/cari-data.PNG)<br>
 
 Hapus data
-
-output-praktikum-5 <<<<<
+![hapus data](images/hapus-data.PNG)<br>
 
 Flowchart:
+![flowchart](images/flowchart.png)<br><br>
 
-output-praktikum-5 <<<<<
+
+Deploy
+>Git pull
+
+if (any changes on /root)
+>git add . && git commit -m "update" && git push origin main
+
+Update all changes
+>./deploy.sh
