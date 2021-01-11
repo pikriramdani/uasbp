@@ -1,7 +1,11 @@
 # uaspb
+Nama : Pikri Ramdani
+NIM  : 312010162
+Kelas: TI.20 A.1
+<br><br>
 
 Tugas UAS Bahasa Pemrograman
-Struktur Package & Module
+Struktur Package & Module<br>
 ![package](images/package.PNG) <br><br>
 
 **Penjelasan:**
@@ -116,19 +120,19 @@ Ubah data<br>
 ![ubah data](images/ubah-data.PNG)<br><br>
 <br>
 
-Lihat data
+Lihat data<br>
 ![lihat data](images/lihat-data.PNG)<br><br>
 <br>
 
-Cari data
+Cari data<br>
 ![cari data](images/cari-data.PNG)<br><br>
 <br>
 
-Hapus data
+Hapus data<br>
 ![hapus data](images/hapus-data.PNG)<br><br>
 <br>
 
-Flowchart:
+Flowchart:<br>
 ![flowchart](images/flowchart.png)<br><br>
 <br>
 
