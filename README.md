@@ -1,10 +1,10 @@
 # uaspb
-Nama : Pikri Ramdani
-NIM  : 312010162
-Kelas: TI.20 A.1
+Nama : Pikri Ramdani<br>
+NIM  : 312010162<br>
+Kelas: TI.20 A.1<br>
 <br><br>
 
-Tugas UAS Bahasa Pemrograman
+Tugas UAS Bahasa Pemrograman<br>
 Struktur Package & Module<br>
 ![package](images/package.PNG) <br><br>
 
